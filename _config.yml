@@ -23,14 +23,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/Jiasheng Photo.png"
   name             : "Jiasheng Guo"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "I am a first-year undergraduate student in Applied Mathematics and Data Science at UCSB, conducting research in Professor Yao Qin’s lab under the mentorship of Kenan Tang. My work in Generative AI centers on mitigating symmetry bias in image synthesis and unifying autoregressive and diffusion mechanisms. Previously, I researched Monte Carlo simulations under the supervision of Professor F. Alberto Grünbaum."
+  location         : "Santa Barbara, CA"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jiashengguo@ucsb.edu" 
 
   # Academic websites
   academia         : # URL
