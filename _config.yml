@@ -26,11 +26,13 @@ author:
   avatar           : "images/Jiasheng Photo.png"
   name             : "Jiasheng Guo"
   pronouns         : # example: "she/her"  
-  bio              : "I am a first-year undergraduate student in Applied Mathematics and Data Science at UCSB, conducting research in Professor Yao Qin’s lab under the mentorship of Kenan Tang. My work in Generative AI centers on mitigating symmetry bias in image synthesis and unifying autoregressive and diffusion mechanisms. Previously, I researched Monte Carlo simulations under the supervision of Professor F. Alberto Grünbaum."
+  bio              : "Undergraduate Researcher<br>UCSB Applied Math + Stats"
   location         : "Santa Barbara, CA"
-  employer         : "Red Brick University"
+  employer         : "UCSB"
   uri              : # URL
   email            : "jiashengguo@ucsb.edu" 
+  linkedin: "https://www.linkedin.com/in/jiasheng-guo-567558393/"
+  github: "https://github.com/jiashengguo127"
 
   # Academic websites
   academia         : # URL
